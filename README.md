@@ -4,6 +4,9 @@
 #### 저는 논리적 사고와 문제 해결 능력을 발휘할 수 있는 개발자가 되고 싶습니다.   
 #### Spring 분야에서의 끊임없는 성장과 발전을 위해 노력할 것을 약속드립니다.
 
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lis2s2&layout=compact)
 ***
 
 <h3 align="left">☘️ Experiences ☘️</h3>
@@ -68,7 +71,6 @@
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lis2s2&layout=compact)
 
 <h3 align="left">📫 Contact 📫</h3>
 <div align="left">
