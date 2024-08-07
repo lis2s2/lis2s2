@@ -46,12 +46,8 @@
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <a href="imwinter1221@gmail.com">
     <img
       src="https://img.shields.io/badge/imwinter1221@gmail.com-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
-  </a>
 </div>
-profile
-KI
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lis2s2&layout=compact)
+<h3 align="center"> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lis2s2&layout=compact) </h3>
