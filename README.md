@@ -1,4 +1,4 @@
-**Łй ○l름은 ○l수현, 개발ㅈΓ 지망생죠**
+# **Łй ○l름은 ○l수현, 개발ㅈΓ 지망생죠**
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=1000&color=F72E6D&width=435&lines=lis2s2)](https://git.io/typing-svg)
