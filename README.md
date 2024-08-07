@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/springjpa-ED2761?style=for-the-badge&logo=springjpa&logoColor=white">
   <img src="https://img.shields.io/badge/thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white">
   <img src="https://img.shields.io/badge/mariadb-1F305F?style=for-the-badge&logo=mariadb&logoColor=white">
+  <img src="https://img.shields.io/badge/amazonec2-232F3E?style=for-the-badge&logo=amazonec2&logoColor=white">
 </div>
 
 <br>
@@ -44,6 +45,3 @@
       src="https://img.shields.io/badge/imwinter1221@gmail.com-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
 </div>
 
-
-<br>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lis2s2&layout=compact)
