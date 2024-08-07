@@ -8,8 +8,7 @@
 
 <h3 align="left">☘️ Experiences ☘️</h3>
 <div align="left">
-    
-<br>
+
 
 + 그린컴퓨터아트학원 구월점   
     > *2024.02.20~2024.07.18*   
