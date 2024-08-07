@@ -1,5 +1,9 @@
-<h3 align="center">✨ Tech Stack ✨</h3>
-<div align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=1000&color=F7B771&width=435&lines=lis2s2)](https://git.io/typing-svg)
+
+<br>
+
+<h3 align="left">✨ Tech Stack ✨</h3>
+<div align="left">
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
@@ -17,8 +21,8 @@
 
 <br>
 
-<h3 align="center">⚒️ Tools ⚒️</h3>
-<div align="center">
+<h3 align="left">⚒️ Tools ⚒️</h3>
+<div align="left">
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
@@ -39,8 +43,8 @@
 
 <br>
 
-<h3 align="center">📫 Contact 📫</h3>
-<div align="center">
+<h3 align="left">📫 Contact 📫</h3>
+<div align="left">
     <img
       src="https://img.shields.io/badge/imwinter1221@gmail.com-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
 </div>
