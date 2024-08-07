@@ -68,6 +68,8 @@
 
 <br>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lis2s2&layout=compact)
+
 <h3 align="left">📫 Contact 📫</h3>
 <div align="left">
     <img
