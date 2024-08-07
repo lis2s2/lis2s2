@@ -4,8 +4,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=1000&color=F72E6D&width=435&lines=lis2s2)](https://git.io/typing-svg)
 
 
-저는 논리적 사고와 문제 해결 능력을 발휘할 수 있는 개발자가 되고 싶습니다.   
-Spring 분야에서의 끊임없는 성장과 발전을 위해 노력할 것을 약속드립니다.
+*저는 논리적 사고와 문제 해결 능력을 발휘할 수 있는 개발자가 되고 싶습니다.   
+Spring 분야에서의 끊임없는 성장과 발전을 위해 노력할 것을 약속드립니다.*
 ***
 
 <h3 align="left">☘️ Experiences ☘️</h3>
