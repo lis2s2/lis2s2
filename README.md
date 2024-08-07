@@ -50,6 +50,5 @@
       src="https://img.shields.io/badge/imwinter1221@gmail.com-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
 </div>
 
-<div align="center"> 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lis2s2&layout=compact) 
-</div>
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lis2s2&layout=compact)
