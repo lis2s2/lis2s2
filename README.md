@@ -26,9 +26,7 @@
     > 졸업
 </div>
 
-<br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lis2s2&layout=compact)
 ***
 
 <h3 align="left">✨ Tech Stack ✨</h3>
@@ -47,6 +45,10 @@
   <img src="https://img.shields.io/badge/mariadb-1F305F?style=for-the-badge&logo=mariadb&logoColor=white">
   <img src="https://img.shields.io/badge/amazonec2-232F3E?style=for-the-badge&logo=amazonec2&logoColor=white">
 </div>
+
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lis2s2&layout=compact)
 
 <br>
 
