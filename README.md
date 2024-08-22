@@ -3,7 +3,8 @@
 
 #### 저는 논리적 사고와 문제 해결 능력을 발휘할 수 있는 개발자가 되고 싶습니다.   
 #### 소프트웨어 개발 분야에서의 끊임없는 성장과 발전을 위해 노력할 것을 약속드립니다.
-
++ email: imwinter1221@gmail.com
++ blog: https://blog.naver.com/hyeon6895
 
 ***
 
@@ -29,7 +30,7 @@
 
 ***
 
-<h3 align="left">✨ Tech Stack ✨</h3>
+<h3 align="left">✨ Tech Stacks ✨</h3>
 <div align="left">
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
